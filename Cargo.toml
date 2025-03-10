@@ -1,0 +1,9 @@
+[package]
+name = "m4btool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "*"
+walkdir = "*"
+tempfile = "*"
